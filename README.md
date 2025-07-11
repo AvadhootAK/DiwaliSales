@@ -95,6 +95,4 @@ This notebook can serve as:
 
 Have ideas to improve the analysis or extend it further (e.g., with machine learning)? Feel free to fork this project, submit pull requests, or open an issue.
 
----
 
-Would you like a sample chart exported from the notebook, or a `requirements.txt` file to go with it?
